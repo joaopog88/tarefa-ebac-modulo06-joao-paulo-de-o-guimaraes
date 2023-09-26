@@ -1,0 +1,15 @@
+
+tarefa 2, Acordar
+
+1- Alarme aciona no horário determinado.
+	- levo o braço até o alarme
+	- desligo o alarme
+2- Abro os olhos
+	- fecho os olhos
+	- abro os olhos novamente
+	- mantenho os olhos abertos
+3- Levanto o tronco da cama
+	- coloco as pernas para fora da cama
+	- coloco os pés no chão
+	- fico de pé
+	- faço um movimento de espreguiçar 
